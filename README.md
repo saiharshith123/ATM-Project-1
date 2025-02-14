@@ -4,23 +4,23 @@ This project is a simple console-based ATM system implemented in Python. It simu
 
 ## Features
 
-Withdraw Money
+# Withdraw Money
 
 Allows users to withdraw money from their account.
 
 Validates PIN and checks for sufficient balance before processing.
 
-Deposit Money
+# Deposit Money
 
 Users can deposit money into their account.
 
 The balance is updated in real-time.
 
-PIN Generation
+# PIN Generation
 
 Users can set a new PIN for accounts that do not have an existing PIN.
 
-Mini Statement
+# Mini Statement
 
 Displays user account details, including:
 
@@ -30,11 +30,11 @@ Registered email
 
 Current balance
 
-PIN Change
+# PIN Change
 
 Allows users to change their existing 4-digit PIN.
 
-Exit
+# Exit
 
 Ends the ATM session.
 
