@@ -126,7 +126,7 @@ Pin Changed Successfully!
 
 # Clone the repository:
 
-git clone https://github.com/yourusername/ATM-Project-1.git
+git clone https://github.com/saiharshith123/ATM-Project-1.git
 
 # Navigate to the project directory:
 
