@@ -152,6 +152,3 @@ User Interface: Upgrade to a graphical or web-based interface for better usabili
 
 This project is open-source and available under the MIT License.
 
-## Author
-
-[B.Sai Harshith]
